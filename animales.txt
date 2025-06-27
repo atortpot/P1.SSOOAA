@@ -1,0 +1,6 @@
+gato
+perro
+elefante
+leon
+tigre
+
